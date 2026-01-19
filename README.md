@@ -1,64 +1,60 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">Full Stack / MERN Stack Developer from India 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400"
-src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=atulkumar-gupta&label=Profile%20views&color=0e75b6&style=flat"
-       alt="atulkumar-gupta" />
-</p>
+<img align="right" alt="coding" width="350"
+src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 All of my projects are available on  
-  👉 **LinkedIn:** https://www.linkedin.com/in/atul-kumar-3b936520a
-- 💡 Passionate about building scalable web applications  
-- 😄 Fun fact: *I am funny* 😀
+- 💼 Full Stack / MERN Stack Developer with **1 year 3 months of industry experience**
+- 🚀 Skilled in building **scalable, production-ready web applications**
+- 🧠 Strong in **REST APIs, authentication, and UI optimization**
+- 🤝 Experienced working in **Agile teams**
+- 🎯 Actively looking for **Full Stack / MERN Stack opportunities**
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/atul-kumar-3b936520a" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
+### 🛠️ Tech Stack
+**Frontend**
+- React.js, JavaScript (ES6+)
+- HTML5, CSS3, Tailwind CSS
+
+**Backend**
+- Node.js, Express.js
+- REST APIs, Authentication
+
+**Database**
+- MongoDB, MySQL, PostgreSQL
+
+**Tools & DevOps**
+- Git & GitHub
+- Postman
+- CI/CD (Basics)
+- Docker (Basics)
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
+### 📌 Projects
+🔹 **TravelnWorld** – Travel Package Platform  
+🔹 ERP System – Microservices-based ERP (Inventory, Sales, Finance, HR, Hospital, College Modules)  
+🔹 Full Stack Admin Dashboards & Booking Systems  
+
+👉 More projects available on my GitHub repositories.
 
 ---
 
-### 📊 GitHub Stats
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=atulkumar-gupta&show_icons=true&locale=en&layout=compact" />
-</p>
+### 🌐 Portfolio & Profiles
+- 🌍 Portfolio: https://atul-kumar-portfolio.netlify.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/atul-kumar-3b936520a/
+- 💻 GitHub: https://github.com/atulkumar-gupta
 
-<p>&nbsp;
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=atulkumar-gupta&show_icons=true&locale=en" />
-</p>
+---
 
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=atulkumar-gupta" />
-</p>
+### 📫 Contact Me
+📧 Email: atulkumar1999g@gmail.com  
+📞 Phone: +91 63936 31994
+
+---
+
+⭐ **If you like my work, feel free to star ⭐ my repositories!**
