@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack / MERN Stack Developer with **1+ year of industry experience**
+- 💼 Full Stack / MERN Stack Developer with **2+ year of industry experience**
 - 🚀 Experienced in building **scalable & production-ready applications**
 - 🔐 Strong knowledge of **REST APIs, Authentication & Authorization**
 - 🎨 Focused on **performance, clean UI & best practices**
